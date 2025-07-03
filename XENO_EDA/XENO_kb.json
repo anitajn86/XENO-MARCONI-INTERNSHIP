@@ -1,0 +1,101 @@
+[
+   {
+      "id": "AD0001",
+      "question": "How to remove withdraw lock ",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Building your financial discipline",
+      "tag": "Lock",
+      "content": "1. Please send us an email at uganda@myxeno.com instructing us to Unlock your withdrawals. Please include details like your Full XENO Account name and goal number from which the Lock should be lifted"
+   },
+   {
+      "id": "AD0002",
+      "question": "How can I set up my XENO Autosave using my MoMo menu?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Building your financial discipline",
+      "tag": "Autosave_MoMo",
+      "content": "1. Please see how to automate your savings here below.\n2. Setting up AutoSave via USSD\n3. Dial *165*5*7#\n4. Enter your XENO Pin\n5. Select 1. My Goals\n6. Select Account and Goal which you would like to setup AutoSave\n7. Select 4. AutoSave\n8. Select 4. Add AutoSave\n9. Insert the amount of money and the frequency to AutoSave\n10. Select the day of the week or date of the month to automate your savings\n11. Select 1. Yes to Authorize your AutoSave deposits"
+   },
+   {
+      "id": "AD0003",
+      "question": "How can I set up my XENO Autosave using my web dashboard?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Building your financial discipline",
+      "tag": "Autosave_Web",
+      "content": "1. Please login to your account using Login - XENO (myxeno.com)\n2. Navigate to the top right corner of your home page\n3. Select \u2018Setup AutoSave\u2019"
+   },
+   {
+      "id": "AD0004",
+      "question": "How to I begin my investment journey?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Setting up my investment account",
+      "tag": "Goal-based investing",
+      "content": "1. At XENO, we offer both investment advisory and investment management services, and we've simplified the process into easy steps:\n2. Select a financial goal: We start by helping you identify the financial goal you want to achieve. You'll create a simple profile on the XENO system dedicated to that specific goal.\n3. Tell us about yourself: Next, we'll ask you some simple questions related to the selected goal. This helps us better understand your circumstances and tailor our recommendations accordingly.\n4. Get an investment plan: Based on the information you provide; our system automatically determines your risk tolerance and suggests an appropriate investment plan that aligns with your desired goal.\n5. Complete your profile: To ensure security and compliance, we'll prompt you to complete your profile by providing your date of birth, uploading your ID, and authenticating your email and phone number.\n6. Make your first investment: Once your profile is complete, you can make your initial investment with as little as UGX 10,000 towards your chosen goal. And don't worry, as your account becomes active, you can add other goals too.\n7. Monitor your account: With an activated account, you can easily log in to track the performance and progress of your investments towards your financial goals. Transparency is fundamental to XENO, so you'll always have access to this information."
+   },
+   {
+      "id": "AD0005",
+      "question": "How is the interest for xeno calculated and what's the duration of the Increment?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Understanding the return on your XENO Investment",
+      "tag": "Returns",
+      "content": "1. We specialize in creating customized portfolios tailored to your financial goals and are designed to generate daily returns. These returns vary based on your specific portfolio allocation.\n2. You can track your portfolio's performance anytime through our app, website, or the MTN Mobile Money service. Additionally, you can download detailed return statements directly from our website. For more information on how to access your return statements, click \u202fhttps://support.myxeno.com/hc/en-us/articles/16196761773213-Download-Account-Statements\n3. Our Fund\u2019s historical returns are available for review through published monthly Fund Fact Sheets. These fact sheets are available here https://myxeno.com/fund-fact-sheets"
+   },
+   {
+      "id": "AD0006",
+      "question": "Can I withdraw using my MTN MoMo menu?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Liquidation of investment assets",
+      "tag": "Withdraw_MoMo",
+      "content": "1. Yes you can!\n2. Follow the simple steps below to submit your withdraw request. (Please note that you must leave a minimum of UGX 10,000 on your goal)\n3. Dial *165*5*7#\n4. Enter your XENO Pin\n5. Select 1. My Goals\n6. Select the account you and the goal you want to withdraw from\n7. Select 3. Withdraw\n8. Select 1. One Time Withdraw\n9. Select where to receive your money 1. Mobile Money or 2. Bank\n10. Enter the amount to withdraw\n11. Select 1. Confirm your withdraw ."
+   },
+   {
+      "id": "AD0007",
+      "question": "Can I withdraw using my XENO web dashboard?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Liquidation of investment assets",
+      "tag": "Withdraw_Web",
+      "content": "1. Yes you can!\n2. Log in to your XENO account at https://myxeno.com/login.\n3. Once you're logged in and on your Homepage, you will see your Account(s). Select the specific Account from which you want to withdraw.\n4. Within that Account, you will find your personal goal(s). Choose the goal from which you wish to make a withdrawal.\n5. Scroll down to the ACTIONS section located at the bottom of the page. Click on WITHDRAW and follow the prompts to complete your withdrawal request"
+   },
+   {
+      "id": "AD0008",
+      "question": "Can I withdraw using my XENO App?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Liquidation of investment assets",
+      "tag": "Withdraw_App",
+      "content": "1. Yes you can!\n2. Login into the App.\n3. Select the Account from which you would like to withdraw.\n4. Select the Goal from which you would like to withdraw.\n5. Click on the three dots in the right upper corner.\n6. Click on Withdraw Money (Option 2)\n7. Follow the prompts, submit the form"
+   },
+   {
+      "id": "AD0009",
+      "question": "I deposited my money automatically but it is not reflecting on my account ",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Deposit of funds",
+      "tag": "Deposit",
+      "content": "1. Kindly note;\n2. We take three working days to process deposits (Exclusive of weekends and Public Holidays)\n3. When funds are received on day 1 in our Custodian bank.\n4. On the 2nd day, there is reconciliation to ensure that you have got the units equivalent to the funds you have invested.\n5. On the 3rd day, the data is then uploaded onto the site, and on the next day, you can now view and track your progress on your end.\n6. Thank you for trusting us with your savings."
+   },
+   {
+      "id": "AD0010",
+      "question": "Can I edit my phone number using my XENO web dashboard?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Edit phone number",
+      "tag": "Contact_edit",
+      "content": "1. Yes you can! Please follow the below steps to update your phone number on your dashboard.\n2. Edit phone number (Web)\n3. Step 1: Log in the web\n4. Step 2:\u202fTap your profile name to get a dropdown menu.\n5. Step 3:\u202fSelect \u201cSettings\u201d from the menu\n6. Step 4:\u202fChoose the \u201cSecurity\u201d option.\n7. Step 5:\u202fTap the \u201cEdit\u201d button at the top right.\n8. Step 6:\u202fSelect the reason for updating your phone number.\n9. Step 7:\u202fEnter the security code sent to your current phone number.\n10. Step 8: Enter a new phone number\n11. Step 9:\u202fReview and confirm your new details.\n12. Step 10: Enter a security code sent to your new phone number\n13. Step 11:\u202fYour phone number has been successfully updated!"
+   },
+   {
+      "id": "AD0011",
+      "question": "Can I edit my phone number using my XENO App?",
+      "source": "FAQs",
+      "owner": "Advisory",
+      "section": "Edit phone number",
+      "tag": "Contact_edit",
+      "content": "1. Yes you can!  Please follow the below steps to update your phone number on your XENO App\n2. Step 1: Log in to the XENO App\n3. Step 2:\u202fTap \u201cMore\u201d at the bottom right of your screen.\n4. Step 3:\u202fSelect \u201cSettings\u201d from the menu\n5. Step 4:\u202fTap your profile name to proceed.\n6. Step 5:\u202fChoose the \u201cSecurity\u201d option.\n7. Step 6:\u202fTap the \u201cEdit\u201d button at the top right.\n8. Step 7:\u202fSelect the reason for updating your phone number.\n9. Step 8:\u202fEnter the security code sent to your current phone number.\n10. Step 9: Enter a new phone number\n11. Step 10:\u202fReview and confirm your new details.\n12. Step 11: Enter a security code sent to your new phone number\n13. Step 12:\u202fYour phone number has been successfully updated!\n14. Please do not hesitate to reach out for any other inquiries."
+   }
+]
